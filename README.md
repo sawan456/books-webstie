@@ -1,7 +1,7 @@
 
 # WBF-BookStore
 
-This is online BookStore website where you can  buy books in a cheap price and can read books by purchasing E-Learning plan.
+This is Fully responsive online BookStore website where you can  buy books in a cheap price and can read books by purchasing E-Learning plan.
 
 
 ## Acknowledgements
